@@ -1,5 +1,5 @@
 ```
-Basic git command
+Basic git commands
 ```
 Clonning source code from repo
 
