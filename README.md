@@ -57,9 +57,10 @@ conda create -p  venv python==3.7 -y
 conda activate <./dir_nam>
 ```
 
-Create a requirements.txt file
-
+#### Create a requirements.txt file
+```
 pip freeze>requirements.txt
+```
 ### To install jupyter lab
 
 pip install jupyter lab
